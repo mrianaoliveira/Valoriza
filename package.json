@@ -1,0 +1,11 @@
+{
+  "name": "valoriza",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mrianaoliveira/Valoriza.git",
+  "author": "Mariana Oliveira <marianaoliveirafernandes11@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.4"
+  }
+}
